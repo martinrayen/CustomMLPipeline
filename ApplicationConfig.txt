@@ -1,0 +1,11 @@
+{"AppConfig": [{	"Id":"1xxxx1",
+			"Name":"xxxxx",
+			"Source":"C:\\Users\\Projects\\Source\\",
+			"Output":"C:\\Users\\Projects\\Output\\",
+			"TrainedModel":"C:\\Users\\Projects\\TrainedModel\\", 
+			"ExecutionLog":"C:\\Users\\Projects\\Log\\",
+			"ExecutionLogFileName":"ExecutionLog.txt",
+			"FeedActiveSheet":"FSheet",
+			"FeedSkipRows":0, 
+			"Archive":"C:\\Users\\Projects\\Archive\\"}
+	       ]}
